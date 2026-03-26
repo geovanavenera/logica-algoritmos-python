@@ -1,5 +1,5 @@
 # logica-algoritmos-python
-Repositório com projetos desenvolvidos durante meus estudos de lógica de programação e algoritmos utilizando Python.
+Repositório com projetos desenvolvidos durante meus estudos da faculdade na disciplina de lógica de programação e algoritmos utilizando Python.
 
 
 ## Sobre
